@@ -1,0 +1,3 @@
+[submodule "WebViewDemo"]
+	path = WebViewDemo
+	url = git@github.com:luckyshane/WebViewDemo.git
